@@ -1,8 +1,8 @@
 # Adam Van-Vianen
 
-#### [adamvanvianendesign.ca] (http://adamvanvianendesign.ca)
+#### [adamvanvianendesign.ca](http://adamvanvianendesign.ca)
 
-![My logo](logo.svg)
+![My logo](images/logo.svg)
 
 Adam Van-Vianen, Graphic Designer
 
@@ -12,7 +12,7 @@ Graphic design gives me the ability to express my weird ideas and bring what goe
 
 I have always loved the aspect of art and marketing. Put those two together and you have graphic design. I believe that I can make people feel something from the work I do and communicate or influence them to do/believe what I design for the user/viewer. If I can do that then my job is complete.
 
-- **[contact@adamvanvianendesign.ca] (mailto:contact@adamvanvianendesign.ca)**
+- **[contact@adamvanvianendesign.ca](mailto:contact@adamvanvianendesign.ca)**
 
 ---
 
