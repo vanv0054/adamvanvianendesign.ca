@@ -2,7 +2,7 @@
 
 #### [adamvanvianendesign.ca](http://adamvanvianendesign.ca)
 
-![My logo](images/logo.svg)
+![My logo](images/logo.png)
 
 Adam Van-Vianen, Graphic Designer
 
