@@ -1,3 +1,27 @@
 body {
   font-family: 'Comfortaa', cursive;
 }
+
+.nav .current {
+  color: #c568aa;
+}
+
+a {
+  color: #9b9b9b;
+}
+
+.logo {
+  text-align: left;
+}
+
+.nav {
+  text-align: right;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+header ul {
+  list-style-type: none;
+}
