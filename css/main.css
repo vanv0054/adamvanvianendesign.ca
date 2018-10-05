@@ -131,6 +131,34 @@ hr {
   color: #468dcb;
 }
 
+.art-1 {
+  width: 70%
+}
+
+.subtitle {
+  color: #468dcb;
+}
+
+.description {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.sketch-1 {
+  width: 80%;
+  border-width: 5px;
+  border-color: #468dcb;
+  border-style: solid;
+}
+
+.card {
+  transform: rotate(90deg);
+}
+
+.bar-logo {
+  width: 70%;
+}
+
 @media only screen and (min-width: 38em) {
 
   .first {
