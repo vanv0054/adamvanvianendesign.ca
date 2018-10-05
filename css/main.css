@@ -44,6 +44,10 @@ h1 {
   color: #cf3339
 }
 
+h2 {
+  color: #60ccbc
+}
+
 .btn-ghost {
   border-color: #0071ce;
   border-radius: 20px;
@@ -55,15 +59,47 @@ h1 {
   color: #fff;
 }
 
+.btn-ghost-2 {
+  border-color: #60ccbc;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.btn-ghost-2:hover {
+  border-color: #60ccbc;
+  background-color: #60ccbc;
+  color: #fff;
+}
+
 .case-1 {
   color: #0071ce;
+}
+
+.case-2 {
+  color: #60ccbc;
 }
 
 .info {
   text-align: center;
 }
 
-@media only screen and (min-width: 25em) {
+.broadway {
+  width: 70%;
+}
+
+.biking {
+  width: 90%;
+}
+
+hr {
+  border-color: #468dcb;
+}
+
+.pink {
+  border-color: #c568aa;
+}
+
+@media only screen and (min-width: 38em) {
 
   .first {
     display: inline;
