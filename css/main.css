@@ -164,6 +164,11 @@ hr {
   border-width: 5px;
   border-color: #468dcb;
   border-style: solid;
+  transition: all .2s linear;
+}
+
+.guideline:hover {
+  transform: scale(1.5);
 }
 
 @media only screen and (min-width: 38em) {
