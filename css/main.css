@@ -159,6 +159,13 @@ hr {
   width: 70%;
 }
 
+.guideline {
+  width: 90%;
+  border-width: 5px;
+  border-color: #468dcb;
+  border-style: solid;
+}
+
 @media only screen and (min-width: 38em) {
 
   .first {
