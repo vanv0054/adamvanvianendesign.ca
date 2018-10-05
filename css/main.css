@@ -48,6 +48,10 @@ h2 {
   color: #60ccbc
 }
 
+h3 {
+  color: #d6a84c;
+}
+
 .btn-ghost {
   border-color: #0071ce;
   border-radius: 20px;
@@ -71,12 +75,28 @@ h2 {
   color: #fff;
 }
 
+.btn-ghost-3 {
+  border-color: #af4141;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.btn-ghost-3:hover {
+  border-color: #af4141;
+  background-color: #af4141;
+  color: #fff;
+}
+
 .case-1 {
   color: #0071ce;
 }
 
 .case-2 {
   color: #60ccbc;
+}
+
+.case-3 {
+  color: #af4141;
 }
 
 .info {
@@ -88,6 +108,10 @@ h2 {
 }
 
 .biking {
+  width: 100%;
+}
+
+.soulmates {
   width: 90%;
 }
 
@@ -97,6 +121,14 @@ hr {
 
 .pink {
   border-color: #c568aa;
+}
+
+.contact {
+  color: #c568aa;
+}
+
+.contact:hover {
+  color: #468dcb;
 }
 
 @media only screen and (min-width: 38em) {
