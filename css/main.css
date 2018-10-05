@@ -10,6 +10,10 @@ a {
   color: #9b9b9b;
 }
 
+a:hover {
+  color: #468dcb;
+}
+
 .logo {
   text-align: left;
 }
