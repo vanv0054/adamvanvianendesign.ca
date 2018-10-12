@@ -151,9 +151,13 @@ hr {
   border-style: solid;
 }
 
-/* .card {
+.card {
+  transition: all .2s linear;
+}
+
+.card:hover {
   transform: rotate(90deg);
-} */
+}
 
 .bar-logo {
   width: 70%;
