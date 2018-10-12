@@ -6,13 +6,21 @@ body {
   color: #c568aa;
 }
 
+.pink:hover {
+  color: #c568aa;
+}
+
+.nav .current-2 {
+  color: #468dcb;
+}
+
+.blue:hover {
+  color: #468dcb;
+}
+
 a {
   color: #9b9b9b;
   text-decoration: none;
-}
-
-a:hover {
-  color: #468dcb;
 }
 
 .logo {
@@ -41,11 +49,11 @@ span {
 }
 
 h1 {
-  color: #cf3339
+  color: #cf3339;
 }
 
 h2 {
-  color: #60ccbc
+  color: #60ccbc;
 }
 
 h3 {
