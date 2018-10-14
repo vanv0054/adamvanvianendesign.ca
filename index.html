@@ -1,39 +1,6 @@
-<!DOCTYPE html>
-<html lang="en-ca">
-<head>
-  <meta charset="utf-8">
-  <title>Home Page</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="shortcut icon" href="images/favicon.ico">
-  <link href="css/modules.css" rel="stylesheet">
-  <link href="css/grid.css" rel="stylesheet">
-  <link href="css/type.css" rel="stylesheet">
-  <link href="css/main.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,700" rel="stylesheet">
-</head>
-<body class="max-length">
-
-  <header class="masthead grid grid-middle" role="banner">
-
-    <div class="logo unit xs-1-2 s-1-2 m-1-2 l-1-2 gutter-1-4 pad-t-1-2">
-      <a href="index.html">
-        <i class="icon i-32"><img src="images/logo.svg" alt=""></i>
-      </a>
-      <span class="icon-label milli pad-t-1-2 gutter-1-4"><span class="first">Adam</span> Van-Vianen</span>
-    </div>
-
-    <nav class="nav unit xs-1-2 s-1-2 m-1-2 l-1-2 pad-t" role="navigation" id="nav">
-      <ul class="list-group-inline push-0">
-        <li>
-          <a class="milli gutter-1-2 current" href="index.html">Work</a>
-        </li>
-        <li>
-          <a class="milli gutter-1-2 blue" href="about.html">About</a>
-        </li>
-      </ul>
-    </nav>
-
-  </header>
+---
+layout: default
+---
 
   <main>
 
@@ -41,11 +8,11 @@
 
       <div class="text-center unit xs-1 s-1 m-1-2 l-1-2 info">
         <h1 class="push-1-2 exa">Broadway Bar and Grill</h1>
-        <a class="btn btn-ghost case-1 push" href="broadway.html">Case Study</a>
+        <a class="btn btn-ghost case-1 push" href="{{site.baseurl}}/broadway/">Case Study</a>
       </div>
 
       <div class="unit xs-1 s-1 m-1-2 l-1-2">
-        <img class="broadway" src="images/broadway.svg" alt="">
+        <img class="broadway" src="{{site.baseurl}}/images/broadway.svg" alt="">
       </div>
 
     </section>
@@ -56,11 +23,11 @@
 
       <div class="text-center unit xs-1 s-1 m-1-2 l-1-2 info">
         <h2 class="push-1-2 exa">Biking Buddy</h2>
-        <a class="btn btn-ghost-2 case-2 push" href="biking.html">Case Study</a>
+        <a class="btn btn-ghost-2 case-2 push" href="{{site.baseurl}}/biking/">Case Study</a>
       </div>
 
       <div class="unit xs-1 s-1 m-1-2 l-1-2">
-        <img class="biking" src="images/biking.png" alt="">
+        <img class="biking" src="{{site.baseurl}}/images/biking.png" alt="">
       </div>
 
     </section>
@@ -71,20 +38,13 @@
 
       <div class="text-center unit xs-1 s-1 m-1-2 l-1-2 info">
         <h3 class="push-1-2 exa">Soulmates</h3>
-        <a class="btn btn-ghost-3 case-3 push" href="soulmates.html">Case Study</a>
+        <a class="btn btn-ghost-3 case-3 push" href="{{site.baseurl}}/soulmates/">Case Study</a>
       </div>
 
       <div class="unit xs-1 s-1 m-1-2 l-1-2">
-        <img class="soulmates" src="images/soulmates.png" alt="">
+        <img class="soulmates" src="{{site.baseurl}}/images/soulmates.png" alt="">
       </div>
 
     </section>
 
   </main>
-
-  <div class="text-center">
-    <a href="mailto:contact@adamvanvianendesign.ca"class="bold contact">contact@adamvanvianendesign.ca</p>
-  </div>
-
-</body>
-</html>
