@@ -63,6 +63,7 @@ h3 {
 .btn-ghost {
   border-color: #0071ce;
   border-radius: 20px;
+  transition-duration: 0.4s;
 }
 
 .btn-ghost:hover {
@@ -75,6 +76,7 @@ h3 {
   border-color: #60ccbc;
   border-radius: 20px;
   background-color: #fff;
+  transition-duration: 0.4s;
 }
 
 .btn-ghost-2:hover {
@@ -87,6 +89,7 @@ h3 {
   border-color: #af4141;
   border-radius: 20px;
   background-color: #fff;
+  transition-duration: 0.4s;
 }
 
 .btn-ghost-3:hover {
