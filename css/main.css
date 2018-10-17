@@ -171,9 +171,16 @@ hr {
 }
 
 .sketch-2 {
-  width: 80%;
+  width: 90%;
   border-width: 5px;
   border-color: #60ccbc;
+  border-style: solid;
+}
+
+.sketch-3 {
+  width: 80%;
+  border-width: 5px;
+  border-color: #af4141;
   border-style: solid;
 }
 
@@ -202,7 +209,7 @@ hr {
 }
 
 .wireframe {
-  width: 90%;
+  width: 100%;
   border-width: 5px;
   border-color: #60ccbc;
   border-style: solid;
@@ -218,6 +225,10 @@ hr {
 
 .bike-icon {
   width: 80%;
+}
+
+.isometric {
+  width: 100%;
 }
 
 @media only screen and (min-width: 38em) {
