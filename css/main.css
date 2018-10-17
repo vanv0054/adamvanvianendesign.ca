@@ -194,6 +194,7 @@ hr {
   border-width: 5px;
   border-color: #468dcb;
   border-style: solid;
+  transition: all .1s ease;
 }
 
 .guideline:hover {
