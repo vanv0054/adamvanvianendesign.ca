@@ -170,6 +170,13 @@ hr {
   border-style: solid;
 }
 
+.sketch-2 {
+  width: 80%;
+  border-width: 5px;
+  border-color: #60ccbc;
+  border-style: solid;
+}
+
 .card {
   transition: all .2s ease;
 }
@@ -187,11 +194,29 @@ hr {
   border-width: 5px;
   border-color: #468dcb;
   border-style: solid;
-  transition: all .2s ease;
 }
 
 .guideline:hover {
   transform: scale(2);
+}
+
+.wireframe {
+  width: 90%;
+  border-width: 5px;
+  border-color: #60ccbc;
+  border-style: solid;
+}
+
+.product {
+  width: 80%;
+}
+
+.bike-logo {
+  width: 80%;
+}
+
+.bike-icon {
+  width: 80%;
 }
 
 @media only screen and (min-width: 38em) {
