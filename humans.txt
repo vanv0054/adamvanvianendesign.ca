@@ -1,0 +1,30 @@
+# TEAM
+
+Designer & Developer: Adam Van-Vianen <contact@adamvanvianendesign.ca>
+Site: https://adamvanvianendesign.ca
+GitHub: https://github.com/vanv0054
+Location: Ottawa, Canada
+
+---
+
+#THANKS
+
+I would like to say thank you to Broadway Bar and Grill to let me rebrand their company logo and to let get experience in logo design.
+
+---
+
+#TECHNOLOGY
+
+##Software
+
+- Atom
+- GitHub
+- Jekyll
+- Terminal
+- Photoshop
+- Illustrator
+- Adobe XD
+
+##Hosting
+
+- Hover <https://www.hover.com>
