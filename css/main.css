@@ -219,8 +219,25 @@ hr {
   border-style: solid;
 }
 
+.wireframe-2 {
+  width: 40%;
+  border-width: 5px;
+  border-color: #60ccbc;
+  border-style: solid;
+}
+
 .product {
-  width: 80%;
+  width: 70%;
+  border-width: 5px;
+  border-color: #60ccbc;
+  border-style: solid;
+}
+
+.product-2 {
+  width: 70%;
+  border-width: 5px;
+  border-color: #60ccbc;
+  border-style: solid;
 }
 
 .bike-logo {
