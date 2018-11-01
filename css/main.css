@@ -213,7 +213,7 @@ hr {
 }
 
 .wireframe {
-  width: 100%;
+  width: 80%;
   border-width: 5px;
   border-color: #60ccbc;
   border-style: solid;
