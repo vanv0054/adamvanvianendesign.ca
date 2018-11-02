@@ -179,7 +179,6 @@ hr {
   border-width: 5px;
   border-color: #60ccbc;
   border-style: solid;
-  transition: all .2s ease;
 }
 
 .sketch-2:hover {
