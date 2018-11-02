@@ -179,6 +179,11 @@ hr {
   border-width: 5px;
   border-color: #60ccbc;
   border-style: solid;
+  transition: all .2s ease;
+}
+
+.sketch-2:hover {
+  transform: rotate(270deg);
 }
 
 .sketch-3 {
@@ -186,6 +191,7 @@ hr {
   border-width: 5px;
   border-color: #af4141;
   border-style: solid;
+  transform: rotate(270deg);
 }
 
 .card {
